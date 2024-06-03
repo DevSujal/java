@@ -1,0 +1,2 @@
+1,sujal,manager,100000
+2,prajakta,clerk,50000
